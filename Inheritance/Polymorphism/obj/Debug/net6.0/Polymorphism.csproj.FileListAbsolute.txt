@@ -1,0 +1,15 @@
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\bin\Debug\net6.0\ref\Polymorphism.dll
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+D:\My Projects\Visual Studio\C#\Inheritance\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
