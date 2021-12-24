@@ -1,0 +1,15 @@
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\bin\Debug\net6.0\OOPFundamentals.exe
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\bin\Debug\net6.0\OOPFundamentals.deps.json
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\bin\Debug\net6.0\OOPFundamentals.runtimeconfig.json
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\bin\Debug\net6.0\OOPFundamentals.dll
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\bin\Debug\net6.0\ref\OOPFundamentals.dll
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\bin\Debug\net6.0\OOPFundamentals.pdb
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\OOPFundamentals.csproj.AssemblyReference.cache
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\OOPFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\OOPFundamentals.AssemblyInfoInputs.cache
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\OOPFundamentals.AssemblyInfo.cs
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\OOPFundamentals.csproj.CoreCompileInputs.cache
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\OOPFundamentals.dll
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\ref\OOPFundamentals.dll
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\OOPFundamentals.pdb
+D:\My Projects\Visual Studio\C#\OOPFundamentals\OOPFundamentals\obj\Debug\net6.0\OOPFundamentals.genruntimeconfig.cache
